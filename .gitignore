@@ -105,9 +105,9 @@ dist
 .tern-port
 
 .DS_Store
-assets/*
+
+allure-report/
+*.png
+*.html
 allure*/
 .vscode/
-/test-results/
-/playwright-report/
-/playwright/.cache/
